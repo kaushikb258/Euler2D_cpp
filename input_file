@@ -1,0 +1,6 @@
+nmax 500
+dx 1.0e-2
+dy 1.0e-2
+imax 100
+jmax 100
+CFL 0.2
